@@ -1,0 +1,260 @@
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /home/bro/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:37:51 -1000
+  [1m[36mSQL (1.1ms)[0m  [1mSHOW client_min_messages[0m
+  [1m[35mSQL (0.4ms)[0m  SET client_min_messages TO 'panic'
+  [1m[36mSQL (0.6ms)[0m  [1mSET standard_conforming_strings = on[0m
+  [1m[35mSQL (0.3ms)[0m  SET client_min_messages TO 'notice'
+  [1m[36mSQL (53.1ms)[0m  [1mSET time zone 'UTC'[0m
+  [1m[35mSQL (0.4ms)[0m  SHOW TIME ZONE
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (33.6ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (41.4ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:37:54 -1000
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (12.1ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:37:56 -1000
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.2ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.1ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:38:13 -1000
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.7ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (9.8ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:40:33 -1000
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.1ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.3ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (8.9ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:40:34 -1000
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.9ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (2.3ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (10.9ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:41:13 -1000
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (2.6ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.8ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (13.2ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:41:16 -1000
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.2ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (1.4ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.4ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:41:18 -1000
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (1.3ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (0.5ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (6.3ms)
+DEPRECATION WARNING: config.action_view.debug_rjs will be removed in 3.1, from 3.1 onwards you will need to install prototype-rails to continue to use RJS templates . (called from service at /home/bro/.rvm/rubies/ruby-1.9.2-p290/lib/ruby/1.9.1/webrick/httpserver.rb:111)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:41:42 -1000
+  [1m[36mSQL (1.2ms)[0m  [1mSHOW client_min_messages[0m
+  [1m[35mSQL (0.4ms)[0m  SET client_min_messages TO 'panic'
+  [1m[36mSQL (0.4ms)[0m  [1mSET standard_conforming_strings = on[0m
+  [1m[35mSQL (0.3ms)[0m  SET client_min_messages TO 'notice'
+  [1m[36mSQL (21.3ms)[0m  [1mSET time zone 'UTC'[0m
+  [1m[35mSQL (0.5ms)[0m  SHOW TIME ZONE
+
+SyntaxError (/home/bro/rails_apps/proj2a/app/controllers/students_controller.rb:34: syntax error, unexpected $end, expecting keyword_end):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_trace.erb (3.0ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/_request_and_response.erb (35.9ms)
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/diagnostics.erb within rescues/layout (44.3ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:42:54 -1000
+  Processing by StudentsController#index as JSON
+  [1m[36mStudent Load (7.3ms)[0m  [1mSELECT "students".* FROM "students"[0m
+  [1m[35mSQL (57.7ms)[0m   SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+Completed 200 OK in 429ms (Views: 33.3ms | ActiveRecord: 65.0ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:43:02 -1000
+  Processing by StudentsController#index as JSON
+  [1m[36mStudent Load (4.9ms)[0m  [1mSELECT "students".* FROM "students"[0m
+  [1m[35mSQL (2.2ms)[0m   SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+Completed 200 OK in 21ms (Views: 10.6ms | ActiveRecord: 7.1ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:43:03 -1000
+  Processing by StudentsController#index as JSON
+  [1m[36mStudent Load (8.4ms)[0m  [1mSELECT "students".* FROM "students"[0m
+  [1m[35mSQL (3.8ms)[0m   SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+Completed 200 OK in 29ms (Views: 11.0ms | ActiveRecord: 12.2ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:44:19 -1000
+  Processing by StudentsController#index as JSON
+  [1m[36mStudent Load (2.7ms)[0m  [1mSELECT "students".* FROM "students"[0m
+  [1m[35mSQL (6.0ms)[0m   SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+Completed 200 OK in 18ms (Views: 6.0ms | ActiveRecord: 8.7ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:44:20 -1000
+  Processing by StudentsController#index as JSON
+  [1m[36mStudent Load (2.8ms)[0m  [1mSELECT "students".* FROM "students"[0m
+  [1m[35mSQL (1.2ms)[0m   SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+Completed 200 OK in 13ms (Views: 6.5ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/Proj2a" for 127.0.0.1 at 2012-03-13 14:56:13 -1000
+
+ActionController::RoutingError (No route matches "/Proj2a"):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.1ms)
+
+
+Started GET "/Proj2a.html" for 127.0.0.1 at 2012-03-13 14:56:35 -1000
+
+ActionController::RoutingError (No route matches "/Proj2a.html"):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (0.9ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:57:25 -1000
+  Processing by StudentsController#index as JSON
+  [1m[36mStudent Load (5.0ms)[0m  [1mSELECT "students".* FROM "students"[0m
+  [1m[35mSQL (2.3ms)[0m   SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+Completed 200 OK in 33ms (Views: 12.4ms | ActiveRecord: 7.3ms)
+
+
+Started POST "/students/editStudent" for 127.0.0.1 at 2012-03-13 14:57:54 -1000
+  Processing by StudentsController#editStudent as HTML
+  Parameters: {"student_id"=>"4", "first_name"=>"justin", "last_name"=>"FAGGNUT", "major"=>"BJ"}
+  [1m[36mSQL (147.6ms)[0m  [1m SELECT tablename
+ FROM pg_tables
+ WHERE schemaname = ANY (current_schemas(false))
+[0m
+  [1m[35mSQL (1.0ms)[0m   SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+  [1m[36mStudent Load (9.0ms)[0m  [1mSELECT "students".* FROM "students" WHERE "students"."id" = 4 LIMIT 1[0m
+  [1m[35mSQL (0.2ms)[0m  BEGIN
+  [1m[36mSQL (0.6ms)[0m  [1m SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+[0m
+  [1m[35mAREL (18.1ms)[0m  UPDATE "students" SET "first_name" = 'justin', "last_name" = 'FAGGNUT', "major" = 'BJ' WHERE "students"."id" = 4
+  [1m[36mSQL (1.5ms)[0m  [1mCOMMIT[0m
+Completed 500 Internal Server Error in 208ms
+
+ActionView::MissingTemplate (Missing template students/editStudent with {:handlers=>[:erb, :rjs, :builder, :rhtml, :rxml, :haml], :formats=>[:html], :locale=>[:en, :en]} in view paths "/home/bro/rails_apps/proj2a/app/views"):
+  
+
+Rendered /home/bro/.rvm/gems/ruby-1.9.2-p290@rails3/gems/actionpack-3.0.11/lib/action_dispatch/middleware/templates/rescues/missing_template.erb within rescues/layout (0.7ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:57:54 -1000
+  Processing by StudentsController#index as JSON
+  [1m[35mStudent Load (0.5ms)[0m  SELECT "students".* FROM "students"
+  [1m[36mSQL (0.8ms)[0m  [1m SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+[0m
+Completed 200 OK in 33ms (Views: 29.0ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/students/index.json" for 127.0.0.1 at 2012-03-13 14:59:56 -1000
+  Processing by StudentsController#index as JSON
+  [1m[35mStudent Load (9.7ms)[0m  SELECT "students".* FROM "students"
+  [1m[36mSQL (4.3ms)[0m  [1m SELECT a.attname, format_type(a.atttypid, a.atttypmod), d.adsrc, a.attnotnull
+ FROM pg_attribute a LEFT JOIN pg_attrdef d
+ ON a.attrelid = d.adrelid AND a.attnum = d.adnum
+ WHERE a.attrelid = '"students"'::regclass
+ AND a.attnum > 0 AND NOT a.attisdropped
+ ORDER BY a.attnum
+[0m
+Completed 200 OK in 40ms (Views: 19.9ms | ActiveRecord: 13.9ms)
